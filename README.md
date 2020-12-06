@@ -1,1 +1,2 @@
 # Generated-password-assistant
+The Generated Password Assistant generates 4 - to 12-bit integer passwords for users, and boxes can be Generated to batch store these passwords as required. Of course, users can also modify the content in the generated box in real time, and they can customize the password format to store the password they want......For more comments and suggestions, please contact us: "Generated-password-assistant" official email: xdbzpje@hotmail.com
